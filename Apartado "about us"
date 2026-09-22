@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Botones</title>  
+
+    <button onclick="window.location.href='prologo.html'">Back to Portal</button>
+
+     <h1>About us</h1>
+        <img src = "Logoun.png" width = "15%" height = "15%">
+    <p>We are a small team of scientists and researchers, dedicated to advancing knowledge and understanding of the universe.</p>
+    <p>Our mission is to provide a platform for sharing scientific information and resources with the public, and to inspire curiosity and exploration in the field of science.</p>
+    <p>We believe that science is for everyone, and we strive to make our content
+
+        <h1>Members of developers.</h1>
+    </p> Calvarox / X-1
+    </p> Саша / Koy
+    </p> Dal / Dal
+    <p>Contact us: <a href="mailto:Pepito23@gmail.com">Pepito23@gmail.com</a></p>
